@@ -1,11 +1,11 @@
 # test01
 
-## fruits
+## Fruits
 - apple
 - orange
 - banana
 
-## countries
+## Countries
 1. Japan
 2. United States of America
 3. Korea
